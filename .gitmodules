@@ -1,0 +1,3 @@
+[submodule "kino-frontend"]
+	path = kino-frontend
+	url = git@github.com:LaylaSilbernberg/kino-frontend.git
